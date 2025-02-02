@@ -16,7 +16,7 @@ Follow the steps below to set up the development environment and run the project
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com//assignment.git
+   git clone https://github.com/Prince26Patel/BharatFD_BackendTest.git
    cd BharatFD_backend_test
    cd assignment
    ```
